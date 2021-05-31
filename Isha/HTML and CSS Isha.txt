@@ -1,0 +1,25 @@
+ http://codepen.io 
+open and create account using the free sign in
+    Add at least 2 divs. Remember that divs will later be used to style different parts of your web page differently (e.g., having different text font, color, or size, or a different background color for the web page content between the div tags).
+    Add at least one header within a div tag. Play around with different header sizes (e.g., h1, h2 … h6).
+    Add at least one paragraph within a div tag.
+*<b> tag makes the words bold provided it shld be at the begining as well as at the end.
+eg:<b> hello world </b>
+
+*similarly to emphasize the text that to make the text slant we use <em> tag
+eg:<em> hello </em>
+
+*you can also nest tags by adding many tags in between a sentence.
+
+*lists start with <ul> tag.
+
+ *<li> tag stands fr list item which includes items in a list.
+
+*to make the list numbered ,use <ol>tag.
+
+*to make table that is rows and columns particularly
+start with a <table>tag (eventually end with </table> once finished)
+then you write a <tr> tag that stands for table row to add row items
+*<th> tags specify the heading of the tables where as <td> tag specify the table data to be inserted.
+
+*CSS: Cascading Style Sheets
